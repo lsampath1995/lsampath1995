@@ -20,5 +20,3 @@
 
 [website]: https://github.com/CODING-WAR
 [course]: http://vsCodeHero.com
-
-
