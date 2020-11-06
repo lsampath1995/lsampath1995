@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/lsampath1_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lsampath1_)
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fjxtFDkf0YqVPD8GTG/giphy.gif" />
 
 ### I'm a software engineering student @🅸🅲🅱🆃
 
