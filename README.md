@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=CODING-WAR&style=for-the-badge&url=https%3A%2F%2FCODING-WAR)](https://github.com/CODING-WAR)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lsampath1_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lsampath1_)
 
-### I'm a software engineering student
+### I'm a software engineering student @🅸🅲🅱🆃
 
 - 🔭 I just started my first online course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
