@@ -19,11 +19,6 @@
 - 🏆 2021 Goals: Contribute more to Open Source projects
 - 😁 Fun fact: Always like to learn something new!
 
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
-
-
 ![lsampath1995's github stats](https://github-readme-stats.vercel.app/api?username=lsampath1995&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsampath1995&layout=compact)
 
 [website]: https://github.com/lsampath1995
