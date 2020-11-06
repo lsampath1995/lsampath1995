@@ -9,11 +9,11 @@
 
 ### I'm a software engineering student @🅸🅲🅱🆃
 
-- ✍ I just started my first online course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Always like to learn something new!
+- 💻 I just started my first online course: [Become A VS Code SuperHero!][course]!
+- 📝 I’m currently learning everything 😏
+- 👤 I’m looking to collaborate with other content creators
+- 🏆 2021 Goals: Contribute more to Open Source projects
+- 😁 Fun fact: Always like to learn something new!
 
 <img src="https://github-readme-stats.vercel.app/api?username=lsampath1995&&show_icons=true&title_color=0059b3&icon_color=cc0000&text_color=000000&bg_color=#ffffff">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsampath1995&&show_icons=true&title_color=0059b3&icon_color=cc0000&text_color=000000&bg_color=#ffffff">
