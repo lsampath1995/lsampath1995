@@ -20,7 +20,7 @@
 - 😁 Fun fact: Always like to learn something new!
 
 
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanjhurani&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanjhurani&layout=compact)
+![lsampath1995's github stats](https://github-readme-stats.vercel.app/api?username=lsampath1995&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsampath1995&layout=compact)
 
 [website]: https://github.com/CODING-WAR
 [course]: http://vsCodeHero.com
