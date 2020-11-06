@@ -13,6 +13,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Always like to learn something new!
 <img src="https://github-readme-stats.vercel.app/api?username=lsampath1995&&show_icons=true&title_color=0059b3&icon_color=cc0000&text_color=000000&bg_color=#ffffff">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsampath1995&theme=radical&title_color=8E2DE2&text_color=fff)
 
 [website]: https://github.com/CODING-WAR
 [course]: http://vsCodeHero.com
