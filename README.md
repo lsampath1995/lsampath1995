@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/lsampath1995/lsampath1995/blob/main/coding.png">
 
-### Hi there, I'm LΔHIRU_SΔMPΔTH™ [lsampath1995][website] <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm Lahiru Sampath [lsampath1995][website] <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
