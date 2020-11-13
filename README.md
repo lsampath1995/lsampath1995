@@ -26,9 +26,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
- 
- 
-<br>
+ <br>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
