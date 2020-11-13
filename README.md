@@ -10,12 +10,12 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/lsampath1995/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/lsampath1995/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/lsampath1995/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/lsampath1995/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/lsampath1995/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/lsampath1995/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/lsampath1995/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/lsampath1995/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/lsampath1995/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/lsampath1995/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lsampath1995/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 [![Website](https://img.shields.io/website?label=CODING-WAR&style=for-the-badge&url=https%3A%2F%2FCODING-WAR)](https://github.com/CODING-WAR)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lsampath1_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lsampath1_)
