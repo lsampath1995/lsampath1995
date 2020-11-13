@@ -26,12 +26,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</details>
-<!-- end statics fun section -->
-
-
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
+ 
+ 
 <br>
 
 <!--START_SECTION:waka-->
@@ -81,4 +77,4 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</details>
+
