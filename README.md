@@ -24,7 +24,7 @@
 [website]: https://github.com/lsampath1995
 [course]: http://vsCodeHero.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 <!-- end statics fun section -->
