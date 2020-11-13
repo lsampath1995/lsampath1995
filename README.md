@@ -4,7 +4,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> [![Profile views](http://hits.dwyl.com/lsampath1995/lsampath1995.svg)](http://hits.dwyl.com/lsampath1995/lsampath1995) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> </p>
+![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> [![Profile views](http://hits.dwyl.com/lsampath1995/lsampath1995.svg)](http://hits.dwyl.com/lsampath1995/lsampath1995) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <a href="https://zzetao.github.io/awesome-github-profile/"> <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a> </p>
+
 [![Website](https://img.shields.io/website?label=CODING-WAR&style=for-the-badge&url=https%3A%2F%2FCODING-WAR)](https://github.com/CODING-WAR)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lsampath1_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lsampath1_)
 
