@@ -1,6 +1,4 @@
-<div align="center">
 <img align="center" src="https://github.com/lsampath1995/lsampath1995/blob/main/coding.png">
-</div>
 
 ### Hi there, I'm [LΔHIRU SΔMPΔTH™][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
