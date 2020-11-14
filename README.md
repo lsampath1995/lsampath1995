@@ -33,7 +33,7 @@
 | <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 
 
 
