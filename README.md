@@ -7,6 +7,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" />  <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/lsampath1995/awesome-github-profile-readme" alt="Issues Badge"/></a>  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <a href="https://zzetao.github.io/awesome-github-profile/"> <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>  <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>  <a href="https://github.com/lsampath1995/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lsampath1995/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a> </p>
 
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+ ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+ ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+ ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+ ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
 [![Website](https://img.shields.io/website?label=CODING-WAR&style=for-the-badge&url=https%3A%2F%2FCODING-WAR)](https://github.com/CODING-WAR)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lsampath1_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lsampath1_)
