@@ -3,8 +3,6 @@
 
 <img align="center" src="https://github.com/lsampath1995/lsampath1995/blob/main/banner.jpg">
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 <a href="https://github.com/lsampath1995/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/lsampath1995/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/lsampath1995/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/lsampath1995/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/lsampath1995/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/lsampath1995/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
@@ -26,7 +24,7 @@
 - 🏆 2021 Goals: Contribute more to Open Source projects
 - 😁 Fun fact: Always like to learn something new!
 
-![lsampath1995's github stats](https://github-readme-stats.vercel.app/api?username=lsampath1995&show_icons=true&hide_border=true)
+![lsampath1995's github stats](https://github-readme-stats.vercel.app/api?username=lsampath1995&show_icons=true&hide_border=true)  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 [website]: https://github.com/lsampath1995
 [course]: http://vsCodeHero.com
