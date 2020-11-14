@@ -28,6 +28,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
+<p align="center">
+  <img src="https://andyruwruw.vercel.app/api/skills">
+</p>
+
 #### ∞ contributions in the future 
 
 | <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
