@@ -14,6 +14,8 @@
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+ ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+ ![Atom](https://img.shields.io/badge/-Atom-00599C?style=plastic&logo=Atom)
 
 [![Website](https://img.shields.io/website?label=CODING-WAR&style=for-the-badge&url=https%3A%2F%2FCODING-WAR)](https://github.com/CODING-WAR)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lsampath1_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lsampath1_)
