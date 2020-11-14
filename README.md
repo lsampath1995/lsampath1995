@@ -3,11 +3,6 @@
 
 <img align="center" src="https://github.com/lsampath1995/lsampath1995/blob/main/banner.jpg">
 
-#### ∞ contributions in the future 
-
-| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <a href="https://github.com/lsampath1995/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/lsampath1995/awesome-github-profile-readme" alt="Stars Badge"/></a>
@@ -37,8 +32,13 @@
 [course]: http://vsCodeHero.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
- <br>
+#### ∞ contributions in the future 
+
+| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
