@@ -36,7 +36,7 @@
 [website]: https://github.com/lsampath1995
 [course]: http://vsCodeHero.com
 
-<p align="center">
+<p align="left">
   <img src="https://andyruwruw.vercel.app/api/skills">
 </p>
 
