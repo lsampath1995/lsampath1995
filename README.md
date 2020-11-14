@@ -25,12 +25,12 @@
 [website]: https://github.com/lsampath1995
 [course]: http://vsCodeHero.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
-
 <p align="center">
   <img src="https://andyruwruw.vercel.app/api/skills">
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
 #### ∞ contributions in the future 
 
