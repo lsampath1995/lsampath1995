@@ -29,7 +29,7 @@
 - 🏆 2021 Goals: Contribute more to Open Source projects
 - 😁 Fun fact: Like to try something new!
 
-![lsampath1995's github stats](https://github-readme-stats.vercel.app/api?username=lsampath1995&show_icons=true&hide_border=true)  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+![lsampath1995's github stats](https://github-readme-stats.vercel.app/api?username=lsampath1995&show_icons=true&hide_border=true)
 
 [website]: https://github.com/lsampath1995
 [course]: http://vsCodeHero.com
