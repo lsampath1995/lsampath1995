@@ -30,7 +30,7 @@ I am a full-stack web developer. As a web developer, I enjoy using my obsessive 
 
 <hr>
 
-📊 **My Github Status :**
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;&nbsp;&nbsp;**My Github Status :**
 
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FColombo)
 
