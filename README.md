@@ -1,4 +1,4 @@
-### Hi there. I'm Lahiru Sampath! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
+### Hi there! I'm Lahiru Sampath <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://lsampath1.netlify.app)
