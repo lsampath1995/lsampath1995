@@ -20,15 +20,17 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 **Talking about Personal Stuffs :**
 
+- 🎓 I’m software engineering student at ICBT.
 - 📔 I’m currently working on my final year project.
-- 🚀 I’m currently learning Laravel on [Laravel Official](https://laravel.com/).
-- 💬 Ask me about anything, I am happy to help;
+- 🎯 Want to be a professional web developer.
+- 💻 I love to try new programming innovations.
 - 📝 I regulary take courses on [Udemy](https://www.udemy.com/).
 - 📫 How to reach me : nsa.tst.1995@gmail.com.
-- 📝 [Resume](https://drive.google.com/file/d/1aEhzuMhohEhXXpmKT-8wOBOefQSGWw9N/view).
-- 📔 I’m currently working on my final year project.
+- 🌐 Feel free to vist my private [Profile](https://lsampath1.netlify.app).
 - 🚀 I’m currently learning Laravel on [Laravel Official](https://laravel.com/).
 - 💬 Ask me about anything, I am happy to help;
+
+👑 **My Github Status :**
 
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FColombo)
 
