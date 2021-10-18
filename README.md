@@ -1,5 +1,4 @@
-
-![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" />  <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/lsampath1995/awesome-github-profile-readme" alt="Issues Badge"/></a>  
+ 
  
  ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Lahiru Sampath</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -10,7 +9,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" />  <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> 
 
 I am a full-stack web developer. I love programming, reading, swimming and music.
 
