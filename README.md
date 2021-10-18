@@ -2,12 +2,12 @@
  
  ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Lahiru Sampath</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lsampath1.netlify.app)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://lsampath1.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" />  <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> 
 
@@ -24,14 +24,14 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 - 🚀 I’m currently learning Laravel on [Laravel Official](https://laravel.com/).
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary take courses on [Udemy](https://www.udemy.com/).
-- 📫 How to reach me: gapur.kassym@gmail.com.
+- 📫 How to reach me : nsa.tst.1995@gmail.com.
 - 📝 [Resume](https://drive.google.com/file/d/1aEhzuMhohEhXXpmKT-8wOBOefQSGWw9N/view).
 
 </br>
 
 📈 **My GitHub Stats :**
 
-![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FColombo)
+![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FColombo)
 
  👑 **My Skills :**
  
