@@ -27,10 +27,6 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 - 📫 How to reach me : nsa.tst.1995@gmail.com.
 - 📝 [Resume](https://drive.google.com/file/d/1aEhzuMhohEhXXpmKT-8wOBOefQSGWw9N/view).
 
-</br>
-
-📈 **My GitHub Stats :**
-
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FColombo)
 
  👑 **My Skills :**
