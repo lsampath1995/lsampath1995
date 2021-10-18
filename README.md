@@ -1,5 +1,5 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3808b3d-18e7-4f40-a8cb-21af78dbd19e/d4gqe4u-cc22124f-e22b-40f8-b94b-8963de9a86e5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzODA4YjNkLTE4ZTctNGY0MC1hOGNiLTIxYWY3OGRiZDE5ZVwvZDRncWU0dS1jYzIyMTI0Zi1lMjJiLTQwZjgtYjk0Yi04OTYzZGU5YTg2ZTUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IEE78fTBK8USpWgSULpDW5mZ-iNsoK9R9bV2C1sWOAY">
-<img src="https://66.media.tumblr.com/b7444a7cd660d7455bd5515e61249c19/tumblr_mm4tgb8cJy1rfjowdo1_500.gif">
+<im src="https://66.media.tumblr.com/b7444a7cd660d7455bd5515e61249c19/tumblr_mm4tgb8cJy1rfjowdo1_500.gif">
 
 ### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
