@@ -1,3 +1,5 @@
+<img src="https://66.media.tumblr.com/b7444a7cd660d7455bd5515e61249c19/tumblr_mm4tgb8cJy1rfjowdo1_500.gif">
+
 ### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
