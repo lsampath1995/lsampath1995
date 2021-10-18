@@ -16,7 +16,7 @@ I am a full-stack web developer. As a web developer, I enjoy using my obsessive 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
-**Talking about Personal Stuffs :**
+<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;**Talking about Personal Stuffs :**
 
 - 🎓 I’m software engineering student at ICBT.
 - 📔 I’m currently working on my final year project.
