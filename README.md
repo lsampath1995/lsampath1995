@@ -9,7 +9,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" />  <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" />  <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/> 
 
 I am a full-stack web developer. I love programming, reading, swimming and music.
 
@@ -32,7 +32,7 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 <hr>
 
-👑 **My Github Status :**
+📊 **My Github Status :**
 
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FColombo)
 
