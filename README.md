@@ -1,11 +1,10 @@
 ### Hi there! I'm Lahiru Sampath <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://lsampath1.netlify.app)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" />  <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/> 
 
