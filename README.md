@@ -1,9 +1,16 @@
 <img src="https://66.media.tumblr.com/b7444a7cd660d7455bd5515e61249c19/tumblr_mm4tgb8cJy1rfjowdo1_500.gif">
 
-[](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
-<a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/> 
-
 ### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">𝐿𝒶𝒽𝒾𝓇𝓊 𝒮𝒶𝓂𝓅𝒶𝓉𝒽</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
+<a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/></a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
 <hr>
 
