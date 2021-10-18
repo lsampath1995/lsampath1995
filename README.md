@@ -26,19 +26,25 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 - 💻 I love to try new programming innovations.
 - 📝 I regulary take courses on [Udemy](https://www.udemy.com/).
 - 📫 How to reach me : nsa.tst.1995@gmail.com.
-- 🌐 Feel free to vist my private [Profile](https://lsampath1.netlify.app).
+- 🌐 Feel free to vist my private [profile](https://lsampath1.netlify.app).
 - 🚀 I’m currently learning Laravel on [Laravel Official](https://laravel.com/).
 - 💬 Ask me about anything, I am happy to help;
+
+<hr>
 
 👑 **My Github Status :**
 
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FColombo)
+
+<hr>
 
  👑 **My Skills :**
  
 <p align="left">
   <img src="https://andyruwruw.vercel.app/api/skills">
 </p>
+
+<hr>
 
 🏆 **My Trophies :**
 
