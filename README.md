@@ -1,6 +1,6 @@
 <img src="https://66.media.tumblr.com/b7444a7cd660d7455bd5515e61249c19/tumblr_mm4tgb8cJy1rfjowdo1_500.gif">
 
-### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">𝐿𝒶𝒽𝒾𝓇𝓊 𝒮𝒶𝓂𝓅𝒶𝓉𝒽</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
@@ -30,7 +30,7 @@ I am a full-stack web developer. As a web developer, I enjoy using my obsessive 
 
 <hr>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;&nbsp;&nbsp;**My Github Status :**
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;&nbsp;&nbsp;**My Github Metrics :**
 
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FColombo)
 
