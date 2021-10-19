@@ -8,8 +8,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/l%CE%B4hiru-s%CE%B4mp%CE%B4th-3a8169177/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://lsampath1.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lsampath1/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-FF3390?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lsampath1/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nsa.tst.1995/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 
 <hr>
 
