@@ -27,7 +27,7 @@ I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enj
 - 📝 I regulary take courses on [Udemy](https://www.udemy.com/).
 - 📫 How to reach me : nsa.tst.1995@gmail.com.
 - 🌐 Feel free to vist my [portfolio](https://lsampath1.netlify.app).
-- 🚀 I’m currently learning Figma on [Figma Official](https://figma.com/).
+- 🚀 I’m currently learning designing on [Figma Official](https://figma.com/).
 - 💬 Ask me about anything, I am happy to help.
 
 <hr>
