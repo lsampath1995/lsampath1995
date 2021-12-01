@@ -38,6 +38,6 @@ I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enj
 
 <hr>
 
-💻 **My Design Project Sample :**
+💻 **Project Sample :** vist [Dribbble](https://figma.com/) to view more projects.
 
 <img src="https://github.com/lsampath1995/lsampath1995/blob/55b2822cf2d2fb1cc94646826baa58892e443578/project%2001.png">
