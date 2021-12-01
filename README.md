@@ -35,3 +35,5 @@ I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enj
 🏆 **My Trophies :**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[embed]http://example.com/file.pdf[/embed]
