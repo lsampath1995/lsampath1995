@@ -38,14 +38,6 @@ I am a 🅵🆄🅻🅻-🆂🆃🅰🅲🅺 web developer. As a web developer, 
 
 <hr>
 
- 👑 **My Skills :**
- 
-<p align="left">
-  <img src="https://andyruwruw.vercel.app/api/skills">
-</p>
-
-<hr>
-
 🏆 **My Trophies :**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
