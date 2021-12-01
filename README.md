@@ -1,6 +1,6 @@
 <img src="https://24.media.tumblr.com/089d4205d803a8096111bf114d0b2821/tumblr_mr64nbkVo61sxo5z7o3_500.gif">
 
-### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">𝐿𝒶𝒽𝒾𝓇𝓊 𝒮𝒶𝓂𝓅𝒶𝓉𝒽</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">𝐋𝐚𝐡𝐢𝐫𝐮 𝐒𝐚𝐦𝐩𝐚𝐭𝐡</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
 <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/></a>
@@ -14,7 +14,7 @@
 
 <hr>
 
-I am a 🅵🆄🅻🅻-🆂🆃🅰🅲🅺 web developer. As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3158731/screenshots/6230349/life-of-a-ux-designer-800x600.gif" width="408" height="318" />
  
