@@ -6,7 +6,7 @@
 <br>
 
 <p align="left"> 
-  visitors countdown<br>
+  𝚟𝚒𝚜𝚒𝚝𝚘𝚛𝚜 :<br>
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
 </p>
 
