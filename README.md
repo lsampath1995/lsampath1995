@@ -21,6 +21,8 @@
 
 I am a front-end designer and a front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+<br>
+
 <img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/d4aa72077224cbd01ca4871276e069eddd84bbec/ddr.jpg" width="460"/>
  
  
