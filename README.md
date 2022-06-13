@@ -20,17 +20,19 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
 
 <img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/829f78d69fc04c7911230575976edf4882b01378/programming-language-icon-2.jpg" width="525" />
  
-💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
+```yaml
+name: Erwin Lejeune
+located_in: Odense, Denmark
+from: Nantes (France)
+job: Navigation and Control Engineer
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Coalescent Mobile Robotics
 
-- Software engineering student at ICBT.
-- I’m currently working on design projects.
-- Want to be a professional ui/ux designer.
-- I love to try new designing innovations.
-- I regulary take courses on [Udemy](https://www.udemy.com/).
-- How to reach me : nsa.tst.1995@gmail.com.
-- Feel free to vist my [portfolio](https://lsampath1.netlify.app).
-- I’m currently learning designing on [Figma Official](https://figma.com/).
-- Ask me about anything, I am happy to help.
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Graph Theory", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["microROS"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+```
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
 
@@ -62,3 +64,17 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
 💻 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐚𝐦𝐩𝐥𝐞 : 𝐯𝐢𝐬𝐭 [𝐃𝐫𝐢𝐛𝐛𝐛𝐥𝐞](https://dribbble.com/lsampath1) 𝐭𝐨 𝐯𝐢𝐞𝐰 𝐦𝐨𝐫𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
 
 <img src="https://github.com/lsampath1995/lsampath1995/blob/55b2822cf2d2fb1cc94646826baa58892e443578/project%2001.png">
+
+
+
+💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
+
+- Software engineering student at ICBT.
+- I’m currently working on design projects.
+- Want to be a professional ui/ux designer.
+- I love to try new designing innovations.
+- I regulary take courses on [Udemy](https://www.udemy.com/).
+- How to reach me : nsa.tst.1995@gmail.com.
+- Feel free to vist my [portfolio](https://lsampath1.netlify.app).
+- I’m currently learning designing on [Figma Official](https://figma.com/).
+- Ask me about anything, I am happy to help.
