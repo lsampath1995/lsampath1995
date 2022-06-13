@@ -20,7 +20,7 @@
 
 I am a front-end designer and a front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://forerunner.com.au/wp-content/uploads/programming-languages.png" heigt="400" width="400" /><br>
+<img align="right" alt="GIF" src="https://sc04.alicdn.com/kf/Ucf7f21b81a2a417eb341f7f7c7bc9e84U.png" heigt="" width="" /><br>
  
 💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
 
