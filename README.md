@@ -20,17 +20,15 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
  
 <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;**Talking About Personal Stuffs :**
 
-- 🎓 Software engineering student at ICBT.
-- 📔 I’m currently working on design projects.
-- 🎯 Want to be a professional ui/ux designer.
-- 💻 I love to try new designing innovations.
-- 📝 I regulary take courses on [Udemy](https://www.udemy.com/).
-- 📫 How to reach me : nsa.tst.1995@gmail.com.
-- 🌐 Feel free to vist my [portfolio](https://lsampath1.netlify.app).
-- 🚀 I’m currently learning designing on [Figma Official](https://figma.com/).
-- 💬 Ask me about anything, I am happy to help.
-
-🏆 **Github Archivements :**
+- Software engineering student at ICBT.
+- I’m currently working on design projects.
+- Want to be a professional ui/ux designer.
+- I love to try new designing innovations.
+- I regulary take courses on [Udemy](https://www.udemy.com/).
+- How to reach me : nsa.tst.1995@gmail.com.
+- Feel free to vist my [portfolio](https://lsampath1.netlify.app).
+- I’m currently learning designing on [Figma Official](https://figma.com/).
+- Ask me about anything, I am happy to help.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
