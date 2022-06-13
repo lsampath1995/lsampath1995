@@ -22,7 +22,7 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/42e12b7602b9cf46887d83c8917adde0f37a119c/pngfind.com-web-development-images-png-6664221.png" width="500" /><br>
+<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/829f78d69fc04c7911230575976edf4882b01378/programming-language-icon-2.jpg" width="500" /><br>
  
 💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
 
