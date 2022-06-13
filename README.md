@@ -20,7 +20,7 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
 
 <table align="right">
   <tr>
-    <td width="495" height="495"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
+    <td width="495" height="300"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" height="100%" src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
   </tr>
 </table>
  
