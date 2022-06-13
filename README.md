@@ -2,10 +2,10 @@
 
 <img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="195" height=""/>
 
-### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath </a>💻
+### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath </a>
 
 [](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
-<a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/></a>
+<a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/></a>💻✅
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/l%CE%B4hiru-s%CE%B4mp%CE%B4th-3a8169177/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://lsampath1.netlify.app)
