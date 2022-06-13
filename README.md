@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/114f83d840979f561e65736dead419ecf169709c/depositphotos_430652374-stock-illustration-letter-logo-hexagon-shape-green.jpg" width="135" height=""/>
 
-<img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="195" height=""/>
+<img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="180" height=""/>
 
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
