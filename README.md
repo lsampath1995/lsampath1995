@@ -18,7 +18,11 @@
 
 I am a front-end designer and a front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/829f78d69fc04c7911230575976edf4882b01378/programming-language-icon-2.jpg" width="525" />
+<table align="right">
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
+  </tr>
+</table>
  
 💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
 
