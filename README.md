@@ -12,13 +12,13 @@
 
 <hr>
 
-I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I am a front-end designer and a front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://media.istockphoto.com/photos/illustration-of-happy-smiling-businessman-in-suit-with-laptop-sitting-picture-id1248415323?k=20&m=1248415323&s=612x612&w=0&h=mpz6fKC488an1F9dNcZ22zYENnpL-_xI5uVuZcuWihQ=" width="460"/>
  
-<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;**Talking about Personal Stuffs :**
+<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;**Talking About Personal Stuffs :**
 
-- 🎓 Software engineering student at 🅸🅲🅱🆃.
+- 🎓 Software engineering student at ICBT.
 - 📔 I’m currently working on design projects.
 - 🎯 Want to be a professional ui/ux designer.
 - 💻 I love to try new designing innovations.
@@ -28,7 +28,7 @@ I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enj
 - 🚀 I’m currently learning designing on [Figma Official](https://figma.com/).
 - 💬 Ask me about anything, I am happy to help.
 
-🏆 **My Trophies :**
+🏆 **Github Archivements :**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
