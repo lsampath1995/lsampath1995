@@ -32,6 +32,8 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
 - I’m currently learning designing on [Figma Official](https://figma.com/).
 - Ask me about anything, I am happy to help.
 
+<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
