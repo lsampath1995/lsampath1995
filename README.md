@@ -28,8 +28,6 @@ I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enj
 - 🚀 I’m currently learning designing on [Figma Official](https://figma.com/).
 - 💬 Ask me about anything, I am happy to help.
 
-<hr>
-
 🏆 **My Trophies :**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
