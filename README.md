@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath </a>🧑‍
+### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath </a>
 
 [](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
 <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/></a>
@@ -14,7 +14,7 @@
 
 I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://img.pikbest.com/element_our/20220416/bg/f3efb67d0b836.png!c1024wm0"  />
+<img align="right" alt="GIF" src="https://img.pikbest.com/element_our/20220416/bg/f3efb67d0b836.png!c1024wm0" width="550"  />
  
 <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;**Talking about Personal Stuffs :**
 
