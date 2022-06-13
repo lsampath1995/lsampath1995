@@ -14,7 +14,7 @@
 
 I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://cdn3d.iconscout.com/3d/premium/thumb/ai-coding-4493977-3738370.png"  />
+<img align="right" alt="GIF" src="https://img.pikbest.com/element_our/20220416/bg/f3efb67d0b836.png!c1024wm0"  />
  
 <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;**Talking about Personal Stuffs :**
 
