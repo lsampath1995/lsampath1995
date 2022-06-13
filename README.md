@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="100" height="100"/>
+<img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="150" height="150"/>
 
 ### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath </a>
 
