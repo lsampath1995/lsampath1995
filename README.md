@@ -1,5 +1,3 @@
-<img src="https://24.media.tumblr.com/089d4205d803a8096111bf114d0b2821/tumblr_mr64nbkVo61sxo5z7o3_500.gif">
-
 ### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">𝐋𝐚𝐡𝐢𝐫𝐮 𝐒𝐚𝐦𝐩𝐚𝐭𝐡 🧑‍💻</a> 
 
 [](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
