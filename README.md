@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="left"> 
+<p align="left">Count: 
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
 </p>
 
