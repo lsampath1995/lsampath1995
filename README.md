@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/114f83d840979f561e65736dead419ecf169709c/depositphotos_430652374-stock-illustration-letter-logo-hexagon-shape-green.jpg" width="135" height=""/>
 
-<img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="210" height=""/>
+<img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="230" height=""/>
 
 ### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath </a>
 
@@ -10,9 +10,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/l%CE%B4hiru-s%CE%B4mp%CE%B4th-3a8169177/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://lsampath1.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-FF3390?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lsampath1/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nsa.tst.1995/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nsa.tst.1995/)
 
 <br>
 I am a front-end designer and a front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
