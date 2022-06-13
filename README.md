@@ -14,7 +14,7 @@
 
 I am an 🆄🅸/🆄🆇 designer and front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/fe8cc7e19c0bcec6129a4f7c0da5f0a99ba46cb4/istockphoto-1226886130-612x612.jpg" width="" height="400"  />
+<img align="right" alt="GIF" src="https://media.istockphoto.com/photos/illustration-of-happy-smiling-businessman-in-suit-with-laptop-sitting-picture-id1248415323?k=20&m=1248415323&s=612x612&w=0&h=mpz6fKC488an1F9dNcZ22zYENnpL-_xI5uVuZcuWihQ=" width="580" height="400"  />
  
 <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;**Talking about Personal Stuffs :**
 
