@@ -3,8 +3,6 @@
 
 <img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="195" height=""/>
 
-<br>
-
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
 </p>
