@@ -2,7 +2,7 @@
 
 <img align="left" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="195" height=""/>
 
-### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">𝕃𝕒𝕙𝕚𝕣𝕦 𝕊𝕒𝕞𝕡𝕒𝕥𝕙 </a>👋
+### **Hi there, I'm** <a href="https://lsampath1.netlify.app" target="_blank">𝕃𝕒𝕙𝕚𝕣𝕦 𝕊𝕒𝕞𝕡𝕒𝕥𝕙 </a>👋
 
 [](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
 <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/></a>
@@ -19,7 +19,7 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
  
  <br>
  
-<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;**𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :**
+<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"> &nbsp;&nbsp;&nbsp;𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
 
 - Software engineering student at ICBT.
 - I’m currently working on design projects.
@@ -35,6 +35,6 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
 
 <hr>
 
-💻 **𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐚𝐦𝐩𝐥𝐞 :** 𝐯𝐢𝐬𝐭 [𝐃𝐫𝐢𝐛𝐛𝐛𝐥𝐞](https://dribbble.com/lsampath1) 𝐭𝐨 𝐯𝐢𝐞𝐰 𝐦𝐨𝐫𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+💻 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐚𝐦𝐩𝐥𝐞 : 𝐯𝐢𝐬𝐭 [𝐃𝐫𝐢𝐛𝐛𝐛𝐥𝐞](https://dribbble.com/lsampath1) 𝐭𝐨 𝐯𝐢𝐞𝐰 𝐦𝐨𝐫𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
 
 <img src="https://github.com/lsampath1995/lsampath1995/blob/55b2822cf2d2fb1cc94646826baa58892e443578/project%2001.png">
