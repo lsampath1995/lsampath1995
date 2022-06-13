@@ -1,5 +1,5 @@
 <p align="center"> 
-  visitor count<br>
+  visitor countdown<br>
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
 </p>
 
