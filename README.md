@@ -18,7 +18,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://lsampath1.netlify.app)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nsa.tst.1995/)
 
 I am a front-end designer and a front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
