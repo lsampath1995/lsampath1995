@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/114f83d840979f561e65736dead419ecf169709c/depositphotos_430652374-stock-illustration-letter-logo-hexagon-shape-green.jpg" width="200" height=""/>
+<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/114f83d840979f561e65736dead419ecf169709c/depositphotos_430652374-stock-illustration-letter-logo-hexagon-shape-green.jpg" width="250" height=""/>
 
 <img align="left" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/7e39de7d4cd0e49fac33d6d87916e17159ced6a6/ezgif.com-gif-maker.gif" width="" height="310"/>
 
