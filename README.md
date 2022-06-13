@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="100" height="100"/>
+
 ### Hi there, I'm <a href="https://lsampath1.netlify.app" target="_blank">Lahiru Sampath </a>
 
 [](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
@@ -9,8 +11,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF3390?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lsampath1/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nsa.tst.1995/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
-
-<img align="right" alt="GIF" src="https://github.com/lsampath1995/Profile/blob/aef973e6a74143e73ebd71796318e8e5aefabddc/images/undraw/me.png" width="100" height="100"/>
 
 <hr>
 
