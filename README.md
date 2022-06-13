@@ -35,6 +35,6 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
 
 <hr>
 
-💻 **𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐚𝐦𝐩𝐥𝐞 : ** 𝐯𝐢𝐬𝐭 [𝐃𝐫𝐢𝐛𝐛𝐛𝐥𝐞](https://dribbble.com/lsampath1) 𝐭𝐨 𝐯𝐢𝐞𝐰 𝐦𝐨𝐫𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+💻 **𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐚𝐦𝐩𝐥𝐞 :** 𝐯𝐢𝐬𝐭 [𝐃𝐫𝐢𝐛𝐛𝐛𝐥𝐞](https://dribbble.com/lsampath1) 𝐭𝐨 𝐯𝐢𝐞𝐰 𝐦𝐨𝐫𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
 
 <img src="https://github.com/lsampath1995/lsampath1995/blob/55b2822cf2d2fb1cc94646826baa58892e443578/project%2001.png">
