@@ -14,8 +14,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nsa.tst.1995/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 
-<hr>
-
 I am a front-end designer and a front-end developer. As a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/d4aa72077224cbd01ca4871276e069eddd84bbec/ddr.jpg" width="460"/>
