@@ -22,15 +22,15 @@ I am a front-end designer and a front-end developer. As a designer, I enjoy usin
  
 💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
 
-- Software engineering student at ICBT.
-- I’m currently working on design projects.
-- Want to be a professional ui/ux designer.
-- I love to try new designing innovations.
-- I regulary take courses on [Udemy](https://www.udemy.com/).
-- How to reach me : nsa.tst.1995@gmail.com.
-- Feel free to vist my [portfolio](https://lsampath1.netlify.app).
-- I’m currently learning designing on [Figma Official](https://figma.com/).
-- Ask me about anything, I am happy to help.
+📌 Software engineering student at ICBT.
+📌 I’m currently working on design projects.
+📌 Want to be a professional ui/ux designer.
+📌 I love to try new designing innovations.
+📌 I regulary take courses on [Udemy](https://www.udemy.com/).
+📌 How to reach me : nsa.tst.1995@gmail.com.
+📌 Feel free to vist my [portfolio](https://lsampath1.netlify.app).
+📌 I’m currently learning designing on [Figma Official](https://figma.com/).
+📌 Ask me about anything, I am happy to help.
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
 
