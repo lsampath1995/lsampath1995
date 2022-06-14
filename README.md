@@ -18,7 +18,7 @@
 
 I'm a 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿 & a 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. As a designer/developer, I enjoy using my obsessive attention to detail, my unequivocal love ♥️ for making things that change the world.🌎 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/af2c74af10722dee7c906b035585acba3c9605cd/PikPng.com_web-technology-png_5398786.png" width="500" height="" />
+<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/af2c74af10722dee7c906b035585acba3c9605cd/PikPng.com_web-technology-png_5398786.png" width="455" height="" />
  
 💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
 
