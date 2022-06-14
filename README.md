@@ -16,7 +16,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
 
-I'm a 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿 & a 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. As a designer/developer, I enjoy using my obsessive attention to detail, my unequivocal love ♥️ for making things that change the world.🌎 That's why I like to make things that make a difference.
+I am a confident and reliable system support engineer with extensive practical experience of working with computers and resolving any support issues that are raised to the service desk. Possessing a proven ability to administer and control the operation, configuration and maintenance of computer based information systems, as well as having an eye for detail and able to multi-task under pressure. An excellent communicator, can relate well with people at all levels and has the flexibility of working well as part of a team and on my own.
 
 <img align="right" alt="GIF" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600/https://www.eescorporation.com/wp-content/uploads/2021/04/system-engineer-1-600x569.png" width="430" height="" />
  
