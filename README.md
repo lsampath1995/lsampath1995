@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="http://odm.ergotron.com/Portals/0/images/products/OEM/bt861aa_ani.gif" width="225" height=""/>
 
-<img align="left" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/7e39de7d4cd0e49fac33d6d87916e17159ced6a6/ezgif.com-gif-maker.gif" width="" height="255"/>
+<img align="left" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/7e39de7d4cd0e49fac33d6d87916e17159ced6a6/ezgif.com-gif-maker.gif" width="" height="250"/>
 
 <p align="left">
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
