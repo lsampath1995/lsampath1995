@@ -16,7 +16,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
 
-I'm a 𝙛𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙙𝙚𝙨𝙞𝙜𝙣𝙚𝙧 & a 𝙛𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧. As a designer/developer, I enjoy using my obsessive attention to detail, my unequivocal love ♥️ for making things that change the world.🌎 That's why I like to make things that make a difference.
+I'm a 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿 & a 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. As a designer/developer, I enjoy using my obsessive attention to detail, my unequivocal love ♥️ for making things that change the world.🌎 That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/af2c74af10722dee7c906b035585acba3c9605cd/PikPng.com_web-technology-png_5398786.png" width="500" height="" />
  
