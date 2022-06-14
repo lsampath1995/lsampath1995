@@ -18,7 +18,7 @@
 
 I'm a 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿 & a 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. As a designer/developer, I enjoy using my obsessive attention to detail, my unequivocal love ♥️ for making things that change the world.🌎 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://printify.com/wp-content/uploads/2019/11/Open-position-Printify-sys-en.png" width="430" height="" />
+<img align="right" alt="GIF" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600/https://www.eescorporation.com/wp-content/uploads/2021/04/system-engineer-1-600x569.png" width="430" height="" />
  
 💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
 
