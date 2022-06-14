@@ -22,15 +22,11 @@ I am a confident and reliable system support engineer with extensive practical e
  
 💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
 
-- Software engineering student at ICBT.
-- I’m currently working on design projects.
-- Want to be a professional ui/ux designer.
-- I love to try new designing innovations.
-- I regulary take courses on [Udemy](https://www.udemy.com/).
-- How to reach me : nsa.tst.1995@gmail.com.
-- Feel free to vist my [portfolio](https://lsampath1.netlify.app).
-- I’m currently learning designing on [Figma Official](https://figma.com/).
-- Ask me about anything, I am happy to help.
+- Help desk and tech support: Hardware Assembly, Maintenance, Peripherals, Printers ,Drivers.
+- Networks Configuration: Servers, Routers, TCP/IP Sockets, LAN Technology , Fiber Optics Fundementals
+- Operating Systemes: Windows servers, XP, 7, 8, 10, MAC OS
+- Leadership and Operations: Customer Service-Oriented, Exceptional Verbal and written communication skills, software training and implementation, Efficient multi-tasker
+- Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
 
 <br>
 <a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
