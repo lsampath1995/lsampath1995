@@ -3,8 +3,10 @@
 
 <img align="left" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/7e39de7d4cd0e49fac33d6d87916e17159ced6a6/ezgif.com-gif-maker.gif" width="" height="250"/>
 
+<p align="center">▌│█║▌║▌║║▌║▌║█│▌</p>
+
 <p align="left">
-  <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />▌│█║▌║▌║║▌║▌║█│▌
+  <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
 </p>
 
 ### **𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦** <a href="https://lsampath1.netlify.app" target="_blank">𝐋𝐚𝐡𝐢𝐫𝐮 𝐒𝐚𝐦𝐩𝐚𝐭𝐡</a>
