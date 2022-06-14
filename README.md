@@ -5,7 +5,7 @@
 
 <p align="center">▌│█║▌║▌║║▌║▌║█│▌</p>
 
-<p align="left">
+<p align="center">
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
 </p>
 
