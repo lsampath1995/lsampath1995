@@ -24,7 +24,7 @@ I am a confident and reliable system support engineer with extensive practical e
 
 - Help desk and tech support: Hardware Assembly, Maintenance, Peripherals, Printers ,Drivers.
 - Networks Configuration: Servers, Routers, TCP/IP Sockets, LAN Technology , Fiber Optics Fundementals
-- Operating Systemes: Windows servers, XP, 7, 8, 10, MAC OS
+- Operating Systemes: Windows servers, XP, 7, 8, 10,11 and MAC OS | Linux Distros (Kali/Ubuntu)
 - Leadership and Operations: Customer Service-Oriented, Exceptional Verbal and written communication skills, software training and implementation, Efficient multi-tasker
 - Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
 
