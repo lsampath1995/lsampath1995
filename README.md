@@ -37,7 +37,8 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 - Operating Systems: Windows servers, XP, 7, 8, 10,11 and MAC OS | Linux Distros (Kali/Ubuntu)
 - Leadership and Operations: Customer Service-Oriented, Exceptional Verbal and written communication skills, software training and implementation, Efficient multi-tasker
 - Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
-
+<br>
+<hr>
 💻 𝗗𝘂𝘁𝗶𝗲𝘀 & 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
 
 <img align="right" alt="GIF" src="https://static.vecteezy.com/system/resources/previews/001/834/118/non_2x/man-with-laptop-on-chair-design-free-vector.jpg" width="315" height="" />
@@ -54,6 +55,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 - Ensure computer hardware is safe & complies with health and safety legislation.
 - Applying patches in accordance with company procedures.
 
+<hr>
 🏅 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗔𝗰𝗵𝗶𝘃𝗲𝗺𝗲𝗻𝘁𝘀:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
