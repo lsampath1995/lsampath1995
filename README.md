@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
 </p>
 
-### **𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦** <a href="https://lsampath1.netlify.app" target="_blank">𝐋𝐚𝐡𝐢𝐫𝐮 𝐒𝐚𝐦𝐩𝐚𝐭𝐡</a>
+### **𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺** <a href="https://lsampath1.netlify.app" target="_blank">𝗟𝗮𝗵𝗶𝗿𝘂 𝗦𝗮𝗺𝗽𝗮𝘁𝗵</a>
 
 [](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
 <a href="https://github.com/lsampath1995/awesome-github-profile-readme/issues"></a> <img src="https://img.shields.io/github/stars/lsampath1995" alt="Stars Badge"/></a>
