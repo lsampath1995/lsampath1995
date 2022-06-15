@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 </p>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 <img align="right" alt="GIF" src="http://odm.ergotron.com/Portals/0/images/products/OEM/bt861aa_ani.gif" width="205" height=""/>
 
 <img align="left" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/7e39de7d4cd0e49fac33d6d87916e17159ced6a6/ezgif.com-gif-maker.gif" width="" height="290"/>
@@ -23,7 +25,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,gcp,azure,idea,mysql,sqlite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,gcp,azure,idea,mysql,sqlite&theme=dark" />
   </a>
 </p>
 <hr>
@@ -55,8 +57,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 - Applying patches in accordance with company procedures.
 
 <hr>
-🏅 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗔𝗰𝗵𝗶𝘃𝗲𝗺𝗲𝗻𝘁𝘀:
-<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&isocalendar=1&achievements=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo&config.display=large)
