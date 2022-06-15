@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 
 <img align="right" alt="GIF" src="http://odm.ergotron.com/Portals/0/images/products/OEM/bt861aa_ani.gif" width="225" height=""/>
 
