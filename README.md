@@ -18,7 +18,7 @@
 
 I am a confident and reliable system support engineer with extensive practical experience of working with computers 💻 and resolving any support issues that are raised to the service desk. Possessing a proven ability to administer and control the operation, configuration and maintenance 🛠️ of computer based information systems, as well as having an eye 👀 for detail and able to multi-task under pressure.
 
-<img align="right" alt="GIF" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600/https://www.eescorporation.com/wp-content/uploads/2021/04/system-engineer-1-600x569.png" width="430" height="" />
+<img align="right" alt="GIF" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600/https://www.eescorporation.com/wp-content/uploads/2021/04/system-engineer-1-600x569.png" width="300" height="" />
  
 📖 𝗧𝗮𝗹𝗸𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲:
 
@@ -27,6 +27,7 @@ I am a confident and reliable system support engineer with extensive practical e
 - Operating Systems: Windows servers, XP, 7, 8, 10,11 and MAC OS | Linux Distros (Kali/Ubuntu)
 - Leadership and Operations: Customer Service-Oriented, Exceptional Verbal and written communication skills, software training and implementation, Efficient multi-tasker
 - Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
