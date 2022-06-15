@@ -20,7 +20,7 @@ I am a confident and reliable system support engineer with extensive practical e
 
 <img align="right" alt="GIF" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600/https://www.eescorporation.com/wp-content/uploads/2021/04/system-engineer-1-600x569.png" width="430" height="" />
  
-💻 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬 :
+📖 𝗧𝗮𝗹𝗸𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲:
 
 - Help desk and tech support: Hardware Assembly, Maintenance, Peripherals, Printers ,Drivers.
 - Networks Configuration: Servers, Routers, TCP/IP Sockets, LAN Technology , Fiber Optics Fundementals
@@ -28,13 +28,8 @@ I am a confident and reliable system support engineer with extensive practical e
 - Leadership and Operations: Customer Service-Oriented, Exceptional Verbal and written communication skills, software training and implementation, Efficient multi-tasker
 - Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
 
-<br>
-<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
-💻 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐚𝐦𝐩𝐥𝐞 : 𝐯𝐢𝐬𝐭 [𝐃𝐫𝐢𝐛𝐛𝐛𝐥𝐞](https://dribbble.com/lsampath1) 𝐭𝐨 𝐯𝐢𝐞𝐰 𝐦𝐨𝐫𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
 
-<img src="https://github.com/lsampath1995/lsampath1995/blob/55b2822cf2d2fb1cc94646826baa58892e443578/project%2001.png">
