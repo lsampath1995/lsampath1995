@@ -52,6 +52,8 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=lsampath1995&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
