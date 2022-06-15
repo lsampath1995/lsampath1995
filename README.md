@@ -28,9 +28,9 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 - Leadership and Operations: Customer Service-Oriented, Exceptional Verbal and written communication skills, software training and implementation, Efficient multi-tasker
 - Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
 
-<img align="right" alt="GIF" src="https://cdn.phenompeople.com/CareerConnectResources/prod/MSD1GB/images/JTC_800x600_new-1617377805972.png" width="400" height="" />
-
 💻 𝗗𝘂𝘁𝗶𝗲𝘀 & 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
+
+<img align="right" alt="GIF" src="https://ckgroup.co.uk/wp-content/uploads/2020/05/Job-hunting-graphic-Crush-940.png" width="400" height="" />
 
 - Responsible for networking, design, installation and maintenance services.
 - Supporting users and network administrators over the telephone and by email.
