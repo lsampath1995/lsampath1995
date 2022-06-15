@@ -47,7 +47,3 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 🏅 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗔𝗰𝗵𝗶𝘃𝗲𝗺𝗲𝗻𝘁𝘀:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<hr>
-
-
