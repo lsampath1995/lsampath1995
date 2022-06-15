@@ -28,6 +28,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 - Leadership and Operations: Customer Service-Oriented, Exceptional Verbal and written communication skills, software training and implementation, Efficient multi-tasker
 - Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
 
+<p align="right">
 💻 𝗗𝘂𝘁𝗶𝗲𝘀 & 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
 
 - Responsible for networking, design, installation and maintenance services.
@@ -41,6 +42,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 - Assisting the network manager with support requests.
 - Ensure computer hardware is safe & complies with health and safety legislation.
 - Applying patches in accordance with company procedures.
+</p>
 
 <br>
 
