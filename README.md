@@ -18,7 +18,7 @@
 
 I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with extensive practical experience of working with computers 💻 and resolving any support issues that are raised to the service desk. Possessing a proven ability to administer and control the operation, configuration and maintenance 🛠️ of computer based information systems, as well as having an eye 👀 for detail and able to multi-task under pressure.
 
-<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/dfd05527cf5e0e629572cd87134cad39a1f21443/68747470733a2f2f73702d616f2e73686f7274706978656c2e61692f636c69656e742f746f5f776562702c715f676c6f7373792c7265745f696d672c775f3630302f68747470733a2f2f7777772e656573636f72706f726174696f6e2e636f6d2f77702d636f6.png" width="400" height="" />
+<img align="right" alt="GIF" src="https://github.com/lsampath1995/lsampath1995/blob/dfd05527cf5e0e629572cd87134cad39a1f21443/68747470733a2f2f73702d616f2e73686f7274706978656c2e61692f636c69656e742f746f5f776562702c715f676c6f7373792c7265745f696d672c775f3630302f68747470733a2f2f7777772e656573636f72706f726174696f6e2e636f6d2f77702d636f6.png" width="300" height="" />
 
 📖 𝗧𝗮𝗹𝗸𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗦𝗸𝗶𝗹𝗹𝘀 & 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲:
 
