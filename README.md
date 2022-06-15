@@ -52,7 +52,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=lsampath1995&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&isocalendar=1&achievements=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo&config.display=large)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
