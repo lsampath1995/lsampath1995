@@ -54,7 +54,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 
 <hr>
 
-<iframe src="https://drive.google.com/file/d/1gB3oPz94_Ic_rM3dX5HSTzNd-EeQhrC5/preview" width="640" height="480" allow="autoplay"></iframe>
+[embed]http://example.com/file.pdf[/embed]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
