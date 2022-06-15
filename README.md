@@ -24,7 +24,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,aws,gcp,azure,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,gcp,azure,idea,mysql,sqlite" />
   </a>
 </p>
 
