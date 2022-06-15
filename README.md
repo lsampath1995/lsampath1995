@@ -22,9 +22,9 @@
 
 I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with extensive practical experience of working with computers 💻 and resolving any support issues that are raised to the service desk. Possessing a proven ability to administer and control the operation, configuration and maintenance 🛠️ of computer based information systems, as well as having an eye 👀 for detail and able to multi-task under pressure.
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,aws,gcp,azure,idea" />
   </a>
 </p>
 
