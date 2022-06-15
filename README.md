@@ -27,6 +27,21 @@ I am a confident and reliable system support engineer with extensive practical e
 - Operating Systems: Windows servers, XP, 7, 8, 10,11 and MAC OS | Linux Distros (Kali/Ubuntu)
 - Leadership and Operations: Customer Service-Oriented, Exceptional Verbal and written communication skills, software training and implementation, Efficient multi-tasker
 - Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
+
+💻 𝗗𝘂𝘁𝗶𝗲𝘀 & 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
+
+- Responsible for networking, design, installation and maintenance services.
+- Supporting users and network administrators over the telephone and by email.
+- Maintain the companies network infrastructure.
+- Networking and providing support for Windows, Macintosh and Linux issues.
+- Configuration and testing of any new hardware and software.
+- Management of the daily data backup and retrieval scheme.
+- Installing and operating Windows desktop and server operating systems.
+- TCP/IP networking and hardware maintenance and repair.
+- Assisting the network manager with support requests.
+- Ensure computer hardware is safe & complies with health and safety legislation.
+- Applying patches in accordance with company procedures.
+
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
