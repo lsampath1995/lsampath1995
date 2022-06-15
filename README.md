@@ -20,7 +20,7 @@
 I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with extensive practical experience of working with computers 💻 and resolving any support issues that are raised to the service desk. Possessing a proven ability to administer and control the operation, configuration and maintenance 🛠️ of computer based information systems, as well as having an eye 👀 for detail and able to multi-task under pressure.
 <hr>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,gcp,azure,idea,mysql,sqlite&theme=dark" />
   </a>
 </p>
@@ -58,8 +58,8 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&isocalendar=1&achievements=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo&config.display=large)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&font=Redressed)
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&font=Redressed&align=center)
+  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
