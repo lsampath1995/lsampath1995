@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-</p>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lsampath1995&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <img align="right" alt="GIF" src="http://odm.ergotron.com/Portals/0/images/products/OEM/bt861aa_ani.gif" width="205" height=""/>
 
