@@ -30,7 +30,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 
 💻 𝗗𝘂𝘁𝗶𝗲𝘀 & 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
 
-<img align="right" alt="GIF" src="https://ckgroup.co.uk/wp-content/uploads/2020/05/Job-hunting-graphic-Crush-940.png" width="400" height="" />
+<img align="right" alt="GIF" src="https://static.vecteezy.com/system/resources/previews/001/834/118/non_2x/man-with-laptop-on-chair-design-free-vector.jpg" width="400" height="" />
 
 - Responsible for networking, design, installation and maintenance services.
 - Supporting users and network administrators over the telephone and by email.
