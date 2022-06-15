@@ -58,6 +58,8 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 
 ![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&isocalendar=1&achievements=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo&config.display=large)
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&font=Redressed)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
