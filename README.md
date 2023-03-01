@@ -36,29 +36,7 @@ I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿�
 - Application development, database sys and programming Languages: My SQL, MS SQL | SQL, HTML, CSS, JS, PHP
 <br>
 <hr>
-💻 𝗗𝘂𝘁𝗶𝗲𝘀 & 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀:
 
-<img align="right" alt="GIF" src="https://static.vecteezy.com/system/resources/previews/001/834/118/non_2x/man-with-laptop-on-chair-design-free-vector.jpg" width="315" height="" />
-
-- Responsible for networking, design, installation and maintenance services.
-- Supporting users and network administrators over the telephone and by email.
-- Maintain the companies network infrastructure.
-- Networking and providing support for Windows, Macintosh and Linux issues.
-- Configuration and testing of any new hardware and software.
-- Management of the daily data backup and retrieval scheme.
-- Installing and operating Windows desktop and server operating systems.
-- TCP/IP networking and hardware maintenance and repair.
-- Assisting the network manager with support requests.
-- Ensure computer hardware is safe & complies with health and safety legislation.
-- Applying patches in accordance with company procedures.
-
-<hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lsampath1995&theme=onelight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Metrics](https://metrics.lecoq.io/lsampath1995?template=classic&isocalendar=1&achievements=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FColombo&config.display=large)
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&font=Redressed&align=center)
   
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
