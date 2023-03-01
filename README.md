@@ -17,7 +17,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
 
-I am a confident and reliable 𝘀𝘆𝘀𝘁𝗲𝗺 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with extensive practical experience of working with computers 💻 and resolving any support issues that are raised to the service desk. Possessing a proven ability to administer and control the operation, configuration and maintenance 🛠️ of computer based information systems, as well as having an eye 👀 for detail and able to multi-task under pressure.
+I am a confident and reliable Laravel Developer with extensive practical experience and  I have strong development skills | strong API design skills with some experience in designing & consuming RESTful web services | standard PHP programming skills | strong experienced in Zend Framework, Laravel Framework, Smarty, and MySQL databases | prior experience with JavaScript, CSS, JQuery skills (Desired)
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
