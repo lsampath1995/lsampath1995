@@ -17,7 +17,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
 
-I am a confident and reliable Laravel Developer with extensive practical experience and  I have strong development skills | strong API design skills with some experience in designing & consuming RESTful web services | standard PHP programming skills | strong experienced in Zend Framework, Laravel Framework, Smarty, and MySQL databases | prior experience with JavaScript, CSS, JQuery skills (Desired)
+I am a confident and reliable Laravel Developer with extensive practical experience and  I have strong development skills | strong API design skills with some experience in designing & consuming RESTful web services | standard PHP programming skills | strong experienced in Zend Framework, Laravel Framework, Smarty, and MySQL databases | prior experience with JavaScript, CSS, JQuery skills (Desired)_
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
