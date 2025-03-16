@@ -19,17 +19,14 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
 
-I am a confident and reliable Cyber Security master student at Cardiff Met with extensive practical experience and I have strong pen testing skills | strong network security skills with some experience in working with tools such as Nmap, Wireshark, etc.
-
-[![An image of @lsampath1995's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lsampath1995)](https://holopin.io/@lsampath1995)
-
-<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,gcp,azure,idea,mysql,sqlite&theme=dark" />
   </a>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+<hr>
+
+[![An image of @lsampath1995's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lsampath1995)](https://holopin.io/@lsampath1995)
+
+<hr>
