@@ -20,6 +20,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
 
 I am a confident and reliable Cyber Security master student at Cardiff Met with extensive practical experience and I have strong pen testing skills | strong network security skills with some experience in working with tools such as Nmap, Wireshark, etc.
+
+[![An image of @anupamapathirage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anupamapathirage)](https://holopin.io/@anupamapathirage)
+
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
