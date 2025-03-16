@@ -2,7 +2,7 @@
 
 <hr>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" width="" height="280"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" width="370" height="280"/>
 
 <img align="left" alt="GIF" src="https://camo.githubusercontent.com/694ae92caaec0a703876dfa214a53578f370722c362904679fc7c035778aab54/68747470733a2f2f696d67322e647265616d6965732e64652f696d672f31382f622f393864786868336c7471772e676966" width="" height="290"/>
 
