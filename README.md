@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=actix,github,vscode,anaconda,linux,kali,apple,arch,python,raspberrypi,redhat,tensorflow,ubuntu,windows,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=actix,github,vscode,anaconda,linux,kali,apple,arch,python,raspberrypi,redhat,ubuntu,windows,aws,git&theme=dark" />
   </a>
 </p>
 
