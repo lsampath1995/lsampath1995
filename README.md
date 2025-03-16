@@ -1,4 +1,8 @@
+<hr>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lsampath1995&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+<hr>
 
 <img align="right" alt="GIF" src="http://odm.ergotron.com/Portals/0/images/products/OEM/bt861aa_ani.gif" width="205" height=""/>
 
@@ -18,6 +22,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/l%CE%B4hiru-s%CE%B4mp%CE%B4th-3a8169177/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
+
+<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
