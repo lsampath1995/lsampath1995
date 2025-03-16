@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="" height=""/>
+  <img src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/red-alpha/github-contribution-grid-snake-dark.svg" width="" height=""/>
 </p>
 
 <p align="center">
