@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/lsampath1995/lsampath1995/blob/main/SCR-20250316-ezfw.png" width="700" height=""/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="" height=""/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="" height=""/>
+  <img src="https://github.com/lsampath1995/lsampath1995/blob/main/SCR-20250316-ezfw.png" width="700" height=""/>
 </p>
 
 <img align="left" alt="GIF" src="https://camo.githubusercontent.com/694ae92caaec0a703876dfa214a53578f370722c362904679fc7c035778aab54/68747470733a2f2f696d67322e647265616d6965732e64652f696d672f31382f622f393864786868336c7471772e676966" width="" height="290"/>
