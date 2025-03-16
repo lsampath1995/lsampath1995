@@ -2,8 +2,8 @@
   <img src="https://github.com/lsampath1995/lsampath1995/blob/main/SCR-20250316-ezfw.png" width="700" height=""/>
 </p>
 
-<p align="right">
-  <img src="https://camo.githubusercontent.com/1682dd55795ae80720551d239b98edfcc0c4a0a368cbed6c9a52c081feaecf99/68747470733a2f2f676974687562346c6966652e6865726f6b756170702e636f6d2f6574686f6d736f6e2e6769663f7a3d36" width="" height=""/>
+<p align="center">
+  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif" width="" height=""/>
 </p>
 
 <img align="left" alt="GIF" src="https://camo.githubusercontent.com/694ae92caaec0a703876dfa214a53578f370722c362904679fc7c035778aab54/68747470733a2f2f696d67322e647265616d6965732e64652f696d672f31382f622f393864786868336c7471772e676966" width="" height="290"/>
