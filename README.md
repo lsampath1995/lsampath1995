@@ -21,8 +21,11 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat&logo=Youtube&logoColor=white)](https://m.youtube.com/user/38919929045544/featured)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lsampath1_)
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,gcp,azure,idea,mysql,sqlite&theme=dark" />
+  </a>
+</p>
 
 ### Network
 <div>
@@ -56,11 +59,7 @@
 
 <hr>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,laravel,php,html,css,js,wordpress,gcp,azure,idea,mysql,sqlite&theme=dark" />
-  </a>
-</p>
+
 
 <hr>
 
