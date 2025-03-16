@@ -21,7 +21,7 @@
 
 I am a confident and reliable Cyber Security master student at Cardiff Met with extensive practical experience and I have strong pen testing skills | strong network security skills with some experience in working with tools such as Nmap, Wireshark, etc.
 
-[![An image of @anupamapathirage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anupamapathirage)](https://holopin.io/@anupamapathirage)
+[![An image of @lsampath1995's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lsampath1995)](https://holopin.io/@lsampath1995)
 
 <hr>
 <p align="center">
