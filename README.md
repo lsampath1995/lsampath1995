@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif" width="" height=""/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="" height=""/>
 </p>
 
 <img align="left" alt="GIF" src="https://camo.githubusercontent.com/694ae92caaec0a703876dfa214a53578f370722c362904679fc7c035778aab54/68747470733a2f2f696d67322e647265616d6965732e64652f696d672f31382f622f393864786868336c7471772e676966" width="" height="290"/>
