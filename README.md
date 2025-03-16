@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
+<p align="center">
+  <img src="https://github.com/lsampath1995/lsampath1995/blob/main/SCR-20250316-ezfw.png" width="700" height=""/>
 </p>
 
 
