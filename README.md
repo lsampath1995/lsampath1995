@@ -8,6 +8,8 @@
   <img src="https://profile-counter.glitch.me/lsampath1995/count.svg" />
 </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/lsampath1.png" alt="Your Image Badge" />
+
 ### **𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺** <a href="https://lsampath1.netlify.app" target="_blank">𝗟𝗮𝗵𝗶𝗿𝘂 𝗦𝗮𝗺𝗽𝗮𝘁𝗵</a>
 
 [](https://visitor-badge.glitch.me/badge?page_id=lsampath1995.lsampath1995) <img src="https://komarev.com/ghpvc/?username=lsampath1995" alt="lsampath1995" /> 
