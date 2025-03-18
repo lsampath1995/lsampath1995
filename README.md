@@ -70,6 +70,6 @@
 
 <hr>
 
-[![An image of @lsampath1995's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lsampath1995)](https://holopin.io/@lsampath1995)
+[![An image of @lsampath1995's Holopin badges, which is a link to view their full Holopin profile](https://logos-red.com/wp-content/uploads/2024/08/wireshark_filters.gif)
 
 <hr>
