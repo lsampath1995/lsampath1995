@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### 🎖️ Offensive Security Certified Professional (OSCP)
+##### 🎖️ Offensive Security Certified Professional (OSCP)
 
 <img src="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/main/OSCP.png" width="600" alt="OSCP Certificate"/>
 
