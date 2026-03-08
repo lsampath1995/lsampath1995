@@ -24,8 +24,8 @@
 
 <div align="center">
 
-##### 🎖️ Offensive Security Certified Professional (OSCP)
+##### 🎖️ Penetration Tester (THM)
 
-<img src="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/main/OSCP.png" width="600" alt="OSCP Certificate"/>
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HX3E4ZVMCU.png" width="600" alt="OSCP Certificate"/>
 
 <br/><br/>
