@@ -39,5 +39,3 @@
 #### 🎖️ Introduction to Cyber Security (Credential ID: THM-DIWFQENIT8)
 
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DIWFQENIT8.png" width="900" alt="OSCP Certificate"/>
-
-<br/><br/>
