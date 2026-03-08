@@ -18,5 +18,13 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
   </p>
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
 <hr>
+## 🏆 Certifications
+
+<div align="center">
+
+### 🎖️ Offensive Security Certified Professional (OSCP)
+
+<img src="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/main/OSCP.png" width="600" alt="OSCP Certificate"/>
+
+<br/><br/>
