@@ -24,8 +24,20 @@
 
 <div align="center">
 
-#### 🎖️ Penetration Tester (ID: THM-HX3E4ZVMCU)
+#### 🎖️ Penetration Tester (Credential ID: THM-HX3E4ZVMCU)
 
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HX3E4ZVMCU.png" width="600" alt="OSCP Certificate"/>
+
+#### 🎖️ Pre Security (Credential ID: THM-QD9U4B4I1A)
+
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QD9U4B4I1A.png" width="600" alt="OSCP Certificate"/>
+
+#### 🎖️ Web Fundermentals (Credential ID: THM-W4Y3W3SMBY)
+
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W4Y3W3SMBY.png" width="600" alt="OSCP Certificate"/>
+
+#### 🎖️ Introduction to Cyber Security (Credential ID: THM-DIWFQENIT8)
+
+<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DIWFQENIT8.png" width="600" alt="OSCP Certificate"/>
 
 <br/><br/>
